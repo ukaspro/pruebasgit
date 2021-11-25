@@ -20,6 +20,7 @@ function App() {
           <Route exact path="/pets/edit/:id" component ={Edit}/>
           <Route exact path="/pets/:id" component ={Petid}/>
           <Route exact path="/pets/:idprueba" component ={Petid}/>
+          lakaka
         </Switch>
       </div>
     </Router>
