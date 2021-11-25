@@ -1,0 +1,67 @@
+{
+  "pets": [
+    {
+      "pname": "Figaro",
+      "type": "cat",
+      "id": 2,
+      "description": "Figaro Figaro",
+      "skill1": "Saltar"
+    },
+    {
+      "pname": "Gatsby",
+      "type": "dog",
+      "id": 3,
+      "description": "Felix el gato el unico gato",
+      "skill1": "Morder"
+    },
+    {
+      "pname": "Harry",
+      "type": "dog",
+      "id": 4,
+      "description": "Felix el gato el unico gato",
+      "skill1": "Morder"
+    },
+    {
+      "pname": "Jack ",
+      "type": "dog",
+      "id": 5,
+      "description": "Felix el gato el unico gato",
+      "skill1": "Morder"
+    },
+    {
+      "pname": "Leo",
+      "type": "cat",
+      "id": 6,
+      "description": "Felix el gato el unico gato",
+      "skill1": "Morder"
+    },
+    {
+      "pname": "Jasper",
+      "type": "cat",
+      "id": 7,
+      "description": "Felix el gato el unico gato",
+      "skill1": "Morder"
+    },
+    {
+      "pname": "Max",
+      "type": "cat",
+      "id": 8,
+      "description": "Felix el gato el unico gato",
+      "skill1": "Morder"
+    },
+    {
+      "pname": "Fluffy",
+      "type": "cat",
+      "id": 10,
+      "description": "Felix el gato el unico gato",
+      "skill1": "Morder"
+    },
+    {
+      "pname": "asd",
+      "type": "asd",
+      "id": 11,
+      "description": "Felix el gato el unico gato",
+      "skill1": "Morder"
+    }
+  ]
+}
